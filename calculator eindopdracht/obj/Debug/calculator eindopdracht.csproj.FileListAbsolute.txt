@@ -1,0 +1,10 @@
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\bin\Debug\calculator eindopdracht.exe.config
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\bin\Debug\calculator eindopdracht.exe
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\bin\Debug\calculator eindopdracht.pdb
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator eindopdracht.csprojResolveAssemblyReference.cache
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator_eindopdracht.Properties.Resources.resources
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator eindopdracht.csproj.GenerateResource.cache
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator eindopdracht.csproj.CoreCompileInputs.cache
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator eindopdracht.exe
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator eindopdracht.pdb
+C:\Users\Startklaar\Desktop\programmeren Gevorderd\calculator eindopdracht\calculator eindopdracht\obj\Debug\calculator_eindopdracht.RPNCalculator.resources
